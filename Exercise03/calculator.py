@@ -17,7 +17,7 @@ while input != "q":
 		print multiply(num1, num2)
 	elif token[0] == "/":
 		print divide(num1, num2)
-	elif token[0] == "square":
+	elif token[0] == "square":n
 		print square(num1)
 	elif token[0] == "cube":
 		print cube(num1)
